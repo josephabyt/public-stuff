@@ -1,0 +1,4 @@
+function tick(dt)
+    print("tick event!")
+end
+PlayerSettings.jumpMultiplier = 10
